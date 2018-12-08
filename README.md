@@ -7,7 +7,7 @@ In this project, you'll label the pixels of a road in images using a Fully Convo
 `main.py` will check to make sure you are using GPU - if you don't have a GPU on your system, you can use AWS or another cloud computing platform.
 
 #### Fully Connected Neural Network Architecture
-![alt text](images/FCN.jpg)
+(images/FCN.jpg)
 
 #### Results at 50 epochs
 ![alt text](images/um_000032.png)

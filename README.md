@@ -69,10 +69,10 @@ python main.py
 
 ### Results
 #### Kitti (50 epochs)
-![alt text](image-1.png)
-![alt text](image-2.png)
-![alt text](image-3.png)
-![alt text](image-4.png)
+![alt text](runs/1542165778.83792/um_000062.png)
+![alt text](runs/1542165778.83792/um_000032.png)
+![alt text](runs/1542165778.83792/um_000086.png)
+![alt text](runs/1542165778.83792/um_000098.png)
 
 All road segmented images for Kitti are located [here](https://github.com/sachink20aug/CarND-Semantic-Segmentation/tree/master/runs/1542165778.83792)
 
